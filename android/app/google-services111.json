@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24527618829",
+    "firebase_url": "https://hemailer-bd6d1.firebaseio.com",
+    "project_id": "hemailer-bd6d1",
+    "storage_bucket": "hemailer-bd6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24527618829:android:df976b1d16f93207f86644",
+        "android_client_info": {
+          "package_name": "com.hani.hemailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24527618829-fav8br0c5bghu5q49dtbnkkpnlqikoi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_T-UjVH7kEtLX4v9OAZkmLt3IGcXf2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24527618829-fav8br0c5bghu5q49dtbnkkpnlqikoi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
